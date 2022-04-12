@@ -13,4 +13,4 @@ This script allows you to directly encode a plain text into DES and replace each
 
 ---
 
-Special thanks to om3rcitak whom book I used for this script.
+Special thanks to om3rcitak whose book helped me a lot.
