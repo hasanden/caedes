@@ -1,6 +1,6 @@
 # Caedes
 
-This script allows you to directly encode a plain text into DES and replace each plaintext letter with a different one a fixed number of places down the alphabet.
+This script allows you to directly encode a plain text into DES and replace each plaintext letter with a different one a fixed number of places down the alphabet at the same time with a Caesar Cipher.
 
 ## Requirements
 
